@@ -1,4 +1,4 @@
 # memories
 
 
-## Yearbook Generating portal
+## Yearbook Generating portal for Software engineering course
